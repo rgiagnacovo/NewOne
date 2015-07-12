@@ -3,7 +3,7 @@
 
 // Data URL to image.
 // exit immediately if the data url was not passed.
-
+// rick
 
 if (!isset($_REQUEST['data_url'])) {
 echo 'no';
